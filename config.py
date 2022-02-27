@@ -1,2 +1,4 @@
 apiKey = ''
 secretKey = ''
+mailAddress = ''
+password = ''
